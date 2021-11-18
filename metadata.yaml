@@ -1,0 +1,23 @@
+_repo: More-Minor-Horrors_66726
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shipley, A. E. (Arthur Everett), Sir
+    alias: Shipley, Arthur Everett, Sir
+    birthdate: 1861
+    deathdate: 1927
+    gutenberg_agent_id: '44635'
+    url: http://www.gutenberg.org/2009/agents/44635
+    wikipedia: https://en.wikipedia.org/wiki/Arthur_Shipley
+description: ''
+gutenberg_issued: '2021-11-13'
+identifiers:
+  gutenberg: '66726'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: More Minor Horrors
+url: http://www.gutenberg.org/ebooks/66726
